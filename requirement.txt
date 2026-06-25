@@ -1,0 +1,4 @@
+creating python virtual environment in vs code by such command like -->  python -m venv (____environment_Name)
+to activate the python virtual environment in terminal write --> .\(____environment_Name)\scripts\Activate.ps1
+install the ipykernel by command -->   pip install ipykernel ( running jupyter environment in vs code )
+if we write all frameworks in this current file solely and need to install then write this command in the terminal "pip install -r requirements.txt"
