@@ -40,6 +40,8 @@ This repository serves as the foundation for my future learning journey in Data 
 * Importing Modules
 * Standard Libraries
 * Custom Packages
+* Numpy
+* pandas
 
 ### 05. File Handling
 
